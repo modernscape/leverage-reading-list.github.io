@@ -81,19 +81,19 @@ var exItems = [
     title: '金持ちフリーランス 貧乏サラリーマン',
     image: 'B08NP9NP4D.01._SCLZZZZZZZ_SX500_',
     url:'',
-    done: true,
+    done: false,
   },  
   {
     title: 'マーケターのように生きろ: 「あなたが必要だ」と言われ続ける人の思考と行動',
     image: '51HVl2ORWBL._SL500_',
     url:'',
-    done: true,
+    done: false,
   }, 
   {
     title: 'スティーブ・ジョブズ 結果に革命を起こす神のスピード仕事術',
     image: '511EyqPNO1L._SL500_',
     url:'',
-    done: true,
+    done: false,
   }, 
   {
     title: '',
