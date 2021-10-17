@@ -74,7 +74,7 @@ var exItems = [
   {
     title: 'やりきる力',
     image: '51fo+l+ODgS._SL500_',
-    url:'',
+    url:'https://www.amazon.co.jp/dp/4054068308?tag=booklogjp-default-22&linkCode=ogi&th=1&psc=1',
     done: true,
   },   
   {
