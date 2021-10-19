@@ -8,7 +8,7 @@ var exItems = [
   {
     title: '50歳からのゼロ・リセット',
     image: '51sdWhvsvNL._SL500_',
-    url:'',
+    url:'https://www.amazon.co.jp/dp/B07ZTZMPBR?tag=booklogjp-default-22&linkCode=ogi&th=1&psc=1',
     done: true,
   },   
   {
@@ -80,25 +80,25 @@ var exItems = [
   {
     title: '金持ちフリーランス 貧乏サラリーマン',
     image: 'B08NP9NP4D.01._SCLZZZZZZZ_SX500_',
-    url:'',
+    url:'https://www.amazon.co.jp/dp/404605039X?tag=booklogjp-default-22&linkCode=ogi&th=1&psc=1',
     done: false,
   },  
   {
     title: 'マーケターのように生きろ: 「あなたが必要だ」と言われ続ける人の思考と行動',
     image: '51HVl2ORWBL._SL500_',
-    url:'',
+    url:'https://www.amazon.co.jp/dp/4492046852?tag=booklogjp-default-22&linkCode=ogi&th=1&psc=1',
     done: false,
   }, 
   {
     title: 'スティーブ・ジョブズ 結果に革命を起こす神のスピード仕事術',
     image: '511EyqPNO1L._SL500_',
-    url:'',
+    url:'https://www.amazon.co.jp/dp/4773089288?tag=booklogjp-default-22&linkCode=ogi&th=1&psc=1',
     done: false,
   }, 
   {
-    title: '',
-    image: '',
-    url:'',
+    title: '売れ型 誰でも売れるアイデアが湧き出す思考法',
+    image: '414xHbOGUZL._SL500_',
+    url:'https://www.amazon.co.jp/dp/4569850391?tag=booklogjp-default-22&linkCode=ogi&th=1&psc=1',
     done: false,
   }, 
   {
