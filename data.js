@@ -81,7 +81,7 @@ var exItems = [
     title: '金持ちフリーランス 貧乏サラリーマン',
     image: 'B08NP9NP4D.01._SCLZZZZZZZ_SX500_',
     url:'https://www.amazon.co.jp/dp/404605039X?tag=booklogjp-default-22&linkCode=ogi&th=1&psc=1',
-    done: false,
+    done: true,
   },  
   {
     title: 'マーケターのように生きろ: 「あなたが必要だ」と言われ続ける人の思考と行動',
