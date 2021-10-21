@@ -102,6 +102,12 @@ var exItems = [
     done: false,
   }, 
   {
+    title: '入門 起業の科学',
+    image: '51Yvyc6RVXL._SL500_',
+    url:'https://www.amazon.co.jp/dp/4296100947?tag=booklogjp-item-22&linkCode=ogi&th=1&psc=1',
+    done: false,
+  }, 
+  {
     title: '',
     image: '',
     url:'',
