@@ -84,27 +84,21 @@ var exItems = [
     done: true,
   },  
   {
+    title: '入門 起業の科学',
+    image: '51Yvyc6RVXL._SL500_',
+    url:'https://www.amazon.co.jp/dp/4296100947?tag=booklogjp-item-22&linkCode=ogi&th=1&psc=1',
+    done: false,
+  }, 
+  {
     title: 'マーケターのように生きろ: 「あなたが必要だ」と言われ続ける人の思考と行動',
     image: '51HVl2ORWBL._SL500_',
     url:'https://www.amazon.co.jp/dp/4492046852?tag=booklogjp-default-22&linkCode=ogi&th=1&psc=1',
     done: false,
   }, 
   {
-    title: 'スティーブ・ジョブズ 結果に革命を起こす神のスピード仕事術',
-    image: '511EyqPNO1L._SL500_',
-    url:'https://www.amazon.co.jp/dp/4773089288?tag=booklogjp-default-22&linkCode=ogi&th=1&psc=1',
-    done: false,
-  }, 
-  {
     title: '売れ型 誰でも売れるアイデアが湧き出す思考法',
     image: '414xHbOGUZL._SL500_',
     url:'https://www.amazon.co.jp/dp/4569850391?tag=booklogjp-default-22&linkCode=ogi&th=1&psc=1',
-    done: false,
-  }, 
-  {
-    title: '入門 起業の科学',
-    image: '51Yvyc6RVXL._SL500_',
-    url:'https://www.amazon.co.jp/dp/4296100947?tag=booklogjp-item-22&linkCode=ogi&th=1&psc=1',
     done: false,
   }, 
   {
